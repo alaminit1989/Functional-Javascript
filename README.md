@@ -8,3 +8,11 @@ First Class Function :
 4) We can create function as needed
 5) We can pass function as an arguments
 6) We can return function from another function
+
+//***********************************************************
+
+Pure Function :
+
+1) Same Input Same Output
+2) No Side Effects
+3) No Shared State
