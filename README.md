@@ -1,6 +1,6 @@
 # Functional-Javascript
 
-First Class Function :
+# First Class Function :
 
 1) A Function can be stored in a Variable
 2) A Function can be stored in an Array
@@ -11,7 +11,7 @@ First Class Function :
 
 //***********************************************************
 
-Pure Function :
+# Pure Function :
 
 1) Same Input Same Output
 2) No Side Effects
